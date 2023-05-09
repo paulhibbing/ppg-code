@@ -1,0 +1,6 @@
+*.Rhistory
+*.rds
+*.docx
+*.tif
+__accumulate_internal.R
+data-raw
