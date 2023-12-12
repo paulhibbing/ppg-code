@@ -1,7 +1,7 @@
 ## What is this?
 
 This is a series of code files (except for `.gitignore`, `LICENSE`, and `README.md` -- those are other files) that
-replicate the data processing and analysis of our paper on PPG and activity recognition.
+use open-access data to demonstrate PPG data processing and perform a sample analysis focused on activity recognition.
 
 Most of the code files (those with `.R` extension) are for the [R statistical programming language](https://cran.r-project.org/).
 A few of them (those with `.m` extension) are for a language called [Octave](https://octave.org/download).
